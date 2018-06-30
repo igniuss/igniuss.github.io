@@ -1,0 +1,41 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: rouge
+markdown: kramdown
+disqus: igniuss
+google_analytics: UA-121637759-1
+title: Dumb Blog
+future: true
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Igniuss
+
+description: Dumb Blog discussing Dumb things
+author:
+  name: Igniuss
+  github: Igniuss
+  twitter: Igniuss
+  steam: Igniuss
+  discord: 109706676650663936
+  bio: Dumb Blog discussing Dumb things
+  email_md5: a05ecc8d9b8b99151ebc9246299cba1a
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+# set it as url of an image
+# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+
+BASE_PATH:
+
+plugins:
+  - jekyll-paginate
+  - jemoji
