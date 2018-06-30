@@ -4,9 +4,8 @@ title: Unity3D Console
 categories: [unity3D]
 tags: [unity3D]
 comments: true
-permalink: unity3D_console
+permalink: alloc_console
 ---
-
 ![Example](https://i.imgur.com/HIO71Yl.png)
 
 Ever wanted to add a console output to your Unity Application? 
