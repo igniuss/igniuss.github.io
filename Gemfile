@@ -8,4 +8,3 @@ group :jekyll_plugins do
 end
 
 gem 'jekyll-compose', group: [:jekyll_plugins]
-gem 'jemoji'
