@@ -16,3 +16,9 @@ I spend my time working on video games, or playing them!
 (😉 go check out __[the game I'm working on](http://steamcommunity.com/app/325420/)__ if you're interested)
 
 So, the blog is a **huuuuuge** WIP, and will mostly be posting C# or Lua (Homebrew Patent Unkown features a Lua runtime, for user-mods) related posts.
+
+# Todo
+* Finish customizing theme (thanks [dbtek](http://dbtek.github.io/dbyll/) for making an awesome theme)
+* Add ico 
+    * *Make ico*
+* Make actual blog-posts
